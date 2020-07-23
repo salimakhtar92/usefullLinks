@@ -16,3 +16,6 @@ https://medium.com/technofunnel/https-medium-com-mayank-gupta-6-88-21-performanc
 
 ## 5. What is a CDN and why you should use one
 https://www.fastly.com/blog/why-you-should-use-content-delivery-network
+
+## 6. 12 Techniques of Website Speed Optimization: Performance Testing and Improvement Practices
+https://www.altexsoft.com/blog/engineering/12-techniques-of-website-speed-optimization-performance-testing-and-improvement-practices/
