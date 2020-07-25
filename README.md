@@ -19,3 +19,14 @@ https://www.fastly.com/blog/why-you-should-use-content-delivery-network
 
 ## 6. 12 Techniques of Website Speed Optimization: Performance Testing and Improvement Practices
 https://www.altexsoft.com/blog/engineering/12-techniques-of-website-speed-optimization-performance-testing-and-improvement-practices/
+
+## 7. React Architecture Best Practices and Tips from Community Experts
+https://www.simform.com/react-architecture-best-practices/
+
+## 8. Micro Front-end
+https://micro-frontends.org/
+
+## 9. The Strengths and Benefits of Micro Frontends
+https://www.toptal.com/front-end/micro-frontends-strengths-benefits#:~:text=Micro%2Dfrontend%20architecture%20is%20a,%2C%20and%20named%20after%2C%20microservices.&text=Independent%20development%20teams%20can%20collaborate,front%2Dend%20app%20more%20easily.
+
+
