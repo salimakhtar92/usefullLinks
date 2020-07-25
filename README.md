@@ -29,4 +29,7 @@ https://micro-frontends.org/
 ## 9. The Strengths and Benefits of Micro Frontends
 https://www.toptal.com/front-end/micro-frontends-strengths-benefits#:~:text=Micro%2Dfrontend%20architecture%20is%20a,%2C%20and%20named%20after%2C%20microservices.&text=Independent%20development%20teams%20can%20collaborate,front%2Dend%20app%20more%20easily.
 
+## 10. A Complete Guide to Testing React Hooks
+https://www.toptal.com/react/testing-react-hooks-tutorial
+
 
