@@ -32,4 +32,9 @@ https://www.toptal.com/front-end/micro-frontends-strengths-benefits#:~:text=Micr
 ## 10. A Complete Guide to Testing React Hooks
 https://www.toptal.com/react/testing-react-hooks-tutorial
 
+## 11. Next.js (SSR) vs. Create React App (CSR)
+https://codeburst.io/next-js-ssr-vs-create-react-app-csr-7452f71599f6
+
+## 12. The Benefits of Server Side Rendering Over Client Side Rendering
+https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8
 
