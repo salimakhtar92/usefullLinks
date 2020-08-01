@@ -41,3 +41,8 @@ https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client
 ## 13. Efficient React Components: A Guide to Optimizing React Performance
 https://www.toptal.com/react/optimizing-react-performance
 
+## 14. Component Rendering Speed in React
+https://moduscreate.com/blog/react-component-rendering/
+
+
+
