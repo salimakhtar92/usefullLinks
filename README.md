@@ -44,5 +44,6 @@ https://www.toptal.com/react/optimizing-react-performance
 ## 14. Component Rendering Speed in React
 https://moduscreate.com/blog/react-component-rendering/
 
-
+## 15. Become a Front-End Web Developer : LinkedIn Learning 
+https://www.linkedin.com/learning/paths/become-a-front-end-web-developer
 
