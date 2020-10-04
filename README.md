@@ -49,3 +49,6 @@ https://www.linkedin.com/learning/paths/become-a-front-end-web-developer
 
 ## 16. Full Stack Developer's Roadmap
 https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email#front
+
+## 17. 21 React Example Projects to Learn From (Open-source, Beginner-Intermediate Level)
+https://dev.to/syakirurahman/21-react-example-projects-to-learn-from-open-source-beginner-intermediate-level-2e6o?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
